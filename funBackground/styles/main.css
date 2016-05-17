@@ -1,0 +1,90 @@
+.main-header {
+  background-color: #ccc;
+  height: 10vh;
+  width: 80%;
+  position: relative;
+  margin: 40px auto;
+}
+
+.main-header:hover {
+  background: #000;
+}
+
+.logo {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+}
+
+.link {
+  display: inline-block;
+  position: absolute;
+  right: 0;
+}
+
+.wide-box {
+  background: #1ceaf4;
+  width: 80%;
+  margin: 40px auto;
+  height: 25vh;
+  position: relative;
+}
+
+.round-top {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background: #fff;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.round-bottom {
+  width: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background: #fff;
+  right: 0;
+  bottom: 0;
+}
+
+
+.small-box {
+
+}
+
+.double-box-container {
+  width: 80%;
+  margin: 40px auto 0;
+}
+
+.half-box {
+  width: 49%;
+  height: 25vh;
+
+}
+
+.box-left {
+  float: left;
+}
+
+.box-right {
+  float: right;
+}
+
+.round1 {
+
+}
+
+.round2 {
+
+}
+
+.round3 {
+
+}
+
+.round4 {
+
+}
